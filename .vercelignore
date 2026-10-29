@@ -1,0 +1,7 @@
+.local-llm
+.next
+node_modules
+.env*
+!.env.example
+.next-groq
+.env.groq
